@@ -1,2 +1,5 @@
-# Working-On-Cars
-This website is for HyperionDev
+# My Static Website
+
+This is a static website about working on cars.
+
+Deployed using GitHub Pages.
